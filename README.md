@@ -28,10 +28,10 @@ The dataset contains **3,900 customer transactions** with **18 features**, inclu
 
 ## 🎯 Business Objective
 
-- 🔹 Identify high-value customers
-- 🔹 Analyze revenue drivers
-- 🔹 Understand purchasing patterns
-- 🔹 Improve customer retention strategies
+  🔹 Identify high-value customers
+  🔹 Analyze revenue drivers
+  🔹 Understand purchasing patterns
+  🔹 Improve customer retention strategies
 
 ---
 
