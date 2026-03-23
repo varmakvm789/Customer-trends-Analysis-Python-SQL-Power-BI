@@ -124,9 +124,9 @@ jupyter notebook Customer_Shopping_Behavior_Analysis.ipynb
 ## 📁 Project Structure
 ```
 📦 Customer-trends-Analysis-Python-SQL-Power-BI
- ┣ 📓 Customer_Shopping_Behavior_Analysis.ipynb
+ ┣ 📓 Customer_trends_Analysis.ipynb
  ┣ 🗃️  customer_behavior_sql_queries.sql
- ┣ 📊 customer_behavior_dashboard.pbix
+ ┣ 📊 customer_trends_dashboard.pbix
  ┣ 📄 Project_Report.pdf
  ┣ 🎨 Presentation.pdf
  ┣ 🖼️  Cover_Image_CTA.png
