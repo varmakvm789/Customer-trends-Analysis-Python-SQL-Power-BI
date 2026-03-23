@@ -64,13 +64,6 @@ The dataset contains **3,900 customer transactions** with **18 features**, inclu
 - Customer segmentation *(New, Returning, Loyal)*
 - Repeat purchase behavior
 - Revenue contribution by age group
-
----
-
-## 📊 Power BI Dashboard
-
-> 📸 *Dashboard screenshot coming soon*
-
 ---
 
 ## 📈 Key Insights
